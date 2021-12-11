@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-05-cards/static/css/main.a617e044.chunk.css",
+    "main.js": "/react-05-cards/static/js/main.eee6a298.chunk.js",
+    "main.js.map": "/react-05-cards/static/js/main.eee6a298.chunk.js.map",
+    "runtime-main.js": "/react-05-cards/static/js/runtime-main.0439a00e.js",
+    "runtime-main.js.map": "/react-05-cards/static/js/runtime-main.0439a00e.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/react-05-cards/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.88d949b5.chunk.js": "/react-05-cards/static/js/2.88d949b5.chunk.js",
+    "static/js/2.88d949b5.chunk.js.map": "/react-05-cards/static/js/2.88d949b5.chunk.js.map",
+    "static/js/3.4b0867ba.chunk.js": "/react-05-cards/static/js/3.4b0867ba.chunk.js",
+    "static/js/3.4b0867ba.chunk.js.map": "/react-05-cards/static/js/3.4b0867ba.chunk.js.map",
+    "index.html": "/react-05-cards/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/react-05-cards/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/react-05-cards/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.88d949b5.chunk.js.LICENSE.txt": "/react-05-cards/static/js/2.88d949b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0439a00e.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.88d949b5.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.eee6a298.chunk.js"
+  ]
+}
