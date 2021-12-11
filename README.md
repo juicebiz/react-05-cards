@@ -1,3 +1,3 @@
 # 05 Composition Cards
 
-[Look Demo](https://juicebiz.github.com/react-05-cards/).
+[Look Demo](https://juicebiz.github.io/react-05-cards/).
